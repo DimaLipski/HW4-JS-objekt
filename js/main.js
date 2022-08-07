@@ -22,8 +22,7 @@
 //     }
 
 //  / 1. Object.keys(user) -> ['name', 'age'] -> includes('name') 
-   
-   
+
 //    2. user.hasOwnProperty('name')
 
 //    3. if ('name' in user)
